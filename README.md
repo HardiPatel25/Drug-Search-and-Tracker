@@ -1,7 +1,5 @@
 # Drug-Search-and-Tracker
 
-# Drug Search and Tracker
-
 ## Project Overview
 This iOS app allows users to search for medications, view details, and store their medication list and search history. It integrates Firebase authentication for sign-up and login, and uses a repository pattern to manage data and network calls.
 
