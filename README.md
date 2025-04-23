@@ -15,8 +15,8 @@ This iOS app allows users to search for medications, view details, and store the
 - **Unit Tests**: Some basic unit tests for the view models.
 
 ## Swift Version & iOS Deployment Target
-- Swift Version: **5.6**
-- iOS Deployment Target: **iOS 14.0**
+- Swift Version: **5+**
+- iOS Deployment Target: **iOS 17.0**
 
 ## Demo Video
 - **Link to video**: [https://drive.google.com/file/d/1ULAy9ZFPpIvd_e3uJUbGoHUPAeWim5eo/view?usp=sharing]
