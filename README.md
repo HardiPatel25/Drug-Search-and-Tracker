@@ -20,10 +20,5 @@ This iOS app allows users to search for medications, view details, and store the
 - Swift Version: **5.6**
 - iOS Deployment Target: **iOS 14.0**
 
-## Optional: Things to Improve if Given More Time
-- **Refactor Repository Pattern**: Further decouple networking and storage logic into separate repositories.
-- **UI Enhancements**: Improve the UI/UX with custom animations and transitions.
-- **Error Handling**: More comprehensive error handling for network requests.
-
 ## Demo Video
 - **Link to video**: [Insert link to your recorded demo video here]
