@@ -19,4 +19,4 @@ This iOS app allows users to search for medications, view details, and store the
 - iOS Deployment Target: **iOS 14.0**
 
 ## Demo Video
-- **Link to video**: [Insert link to your recorded demo video here]
+- **Link to video**: [https://drive.google.com/file/d/1ULAy9ZFPpIvd_e3uJUbGoHUPAeWim5eo/view?usp=sharing]
